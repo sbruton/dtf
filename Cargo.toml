@@ -2,6 +2,10 @@
 name = "dtf"
 version = "0.1.0"
 edition = "2024"
+description = "Obsecure the running time of a function call to diminish timing attacks"
+license = "MIT OR Apache-2.0"
+authors = ["Sean Bruton <sean@seanbruton.dev>"]
+repository = "https://github.com/sbruton/dtf"
 
 [dependencies]
 rand = "0.9.0"
